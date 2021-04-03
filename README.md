@@ -1,5 +1,7 @@
 # Nursery App
 
+# This project is no longer under development - here for reference only
+
 ## Miscellaneous Tips
 
 ### Running locally
